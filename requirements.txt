@@ -1,0 +1,4 @@
+requests
+telebot
+vodka
+pyTelegramBotAPI==3.7.7
